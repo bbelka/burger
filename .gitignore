@@ -105,3 +105,4 @@ dist
 
 package-lock.json
 homework_instructions.md
+node_modules
